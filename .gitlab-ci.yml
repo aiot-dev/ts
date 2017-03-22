@@ -1,4 +1,3 @@
 mirror:
-    stage: test
     script:
         - git push --mirror https://aiot-dev:ariaMaria252@github.com/aiot-dev/ts.git
